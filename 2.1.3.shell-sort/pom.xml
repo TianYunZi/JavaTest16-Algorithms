@@ -3,14 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>org.practise.algorithms</groupId>
         <artifactId>java-algorithms</artifactId>
+        <groupId>org.practise.algorithms</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.algorithms.parctise</groupId>
-    <artifactId>2.2.1.insertion-sort</artifactId>
+    <groupId>org.practise.algorithms</groupId>
+    <artifactId>2.3.1.shell-sort</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -34,5 +34,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
