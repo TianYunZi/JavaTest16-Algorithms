@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.practise.algorithms</groupId>
-    <artifactId>2.3.1.shell-sort</artifactId>
+    <artifactId>2.1.3.shell-sort</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
