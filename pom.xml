@@ -24,6 +24,9 @@
         <module>2.1.1.select-sort</module>
         <module>2.1.2.insertion-sort</module>
         <module>2.1.3.shell-sort</module>
+        <module>2.2.1.in-place-merge-sort</module>
+        <module>2.2.2.top-down-merge-sort</module>
+        <module>2.2.3.down-top-merge-sort</module>
     </modules>
 
 
