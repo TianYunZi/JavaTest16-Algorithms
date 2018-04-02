@@ -27,6 +27,7 @@
         <module>2.2.1.in-place-merge-sort</module>
         <module>2.2.2.top-down-merge-sort</module>
         <module>2.2.3.down-top-merge-sort</module>
+        <module>2.3.0.quick-sort</module>
     </modules>
 
 
