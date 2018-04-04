@@ -1,0 +1,8 @@
+/.settings/
+/.project
+*.iml
+/.idea/
+/spring-cloud-platform.iml
+/target/
+src/main/resources/
+src/test/

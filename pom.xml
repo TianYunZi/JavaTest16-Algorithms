@@ -28,6 +28,7 @@
         <module>2.2.2.top-down-merge-sort</module>
         <module>2.2.3.down-top-merge-sort</module>
         <module>2.3.0.quick-sort</module>
+        <module>1.0.0.bit-operation</module>
     </modules>
 
 
