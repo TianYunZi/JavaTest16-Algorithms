@@ -29,6 +29,11 @@
         <module>2.2.3.down-top-merge-sort</module>
         <module>2.3.0.quick-sort</module>
         <module>1.0.0.bit-operation</module>
+        <module>2.3.1.three - dimensional-segmentation-quick-sort</module>
+        <module>2.4.0.priority-queue-basic</module>
+        <module>2.4.1.priority-queue-multiple-merge</module>
+        <module>3.1.1.sequential-search</module>
+        <module>3.1.2.binary-search-rotated-sorted-array</module>
     </modules>
 
 
