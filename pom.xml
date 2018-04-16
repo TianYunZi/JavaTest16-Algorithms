@@ -44,6 +44,9 @@
         <module>4.1.4.symbol-graph</module>
         <module>4.2.1.digraph-data-type</module>
         <module>4.2.2.directed-depth-first-search</module>
+        <module>4.2.3.directed-cycle</module>
+        <module>4.3.1.minimal-spanning-tree-algorithm</module>
+        <module>4.4.1.shortest-path-algorithm</module>
     </modules>
 
 
